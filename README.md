@@ -37,5 +37,5 @@
 - Oracle
 - Mysql
 - Mysqlite(Android)
-### 관련 프로젝트
+### 프로젝트
 > 재고관리 프로그램 : https://github.com/PARKJINHOH/ys_inventory_control_Oracle
