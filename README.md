@@ -21,11 +21,11 @@
 <br>
 
 ### Web Project
-> 갤러리 홈페이지 : https://github.com/PARKJINHOH/ys_Gallery_HomePage_Project <br>
+> <h4>갤러리 홈페이지</h4> : https://github.com/PARKJINHOH/ys_Gallery_HomePage_Project <br>
 -> JSP, JAVA, Servlet, HTML, JavaScript, CSS, Mysql <br>
-> 커피판매점 홈페이지 : https://github.com/PARKJINHOH/ys_JSP_RostingHomePage
+> <h4>커피판매점 홈페이지</h4> : https://github.com/PARKJINHOH/ys_JSP_RostingHomePage <br>
 -> JSP, JAVA, Servlet, HTML, JavaScript, CSS, Mysql<br>
-> SPRING을 이용한 LOGIN 페이지 : https://github.com/PARKJINHOH/ys_SPRING_login <br>
+> <h4>SPRING을 이용한 LOGIN 페이지</h4> : https://github.com/PARKJINHOH/ys_SPRING_login <br>
 -> Spring(maven), JAVA, Bootstrap(HTML, JavaScript, CSS) Mysql<br>
 <br>
 
