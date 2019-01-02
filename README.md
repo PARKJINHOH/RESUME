@@ -1,13 +1,13 @@
 # JINHOH PARK _ RESUME
 
-## 소개
+## Introduce
 - 이름 : 박진호
 - 생년월일 : 1994/06/09
 - E-mail : shoonch911@gmail.com , adg0609@naver.com
 - Github : https://github.com/PARKJINHOH
 <br><br>
 
-## 경험
+## Experience
 ### Language
 - JAVA, JSP&Servlet, Spring, Node.js, Android, XML
 ### DataBase
@@ -16,7 +16,7 @@
 - AWS(Amazon Web Services), Apache Tomcat 
 <br><br>
 
-
+## Project
 ### JAVA Project
 > <h4>재고관리 프로그램</h4> : https://github.com/PARKJINHOH/ys_inventory_control_Oracle <br>
 > -> Eclipse(IDE), JAVA <br>
