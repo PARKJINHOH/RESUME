@@ -5,6 +5,7 @@
 - 생년월일 : 1994/06/09
 - E-mail : shoonch911@gmail.com , adg0609@naver.com
 - Github : https://github.com/PARKJINHOH
+- Blog : http://adg0609.tistory.com
 <br><br>
 
 ## Experience
