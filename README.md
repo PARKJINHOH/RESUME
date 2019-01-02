@@ -5,14 +5,16 @@
 - 생년월일 : 1994/06/09
 - E-mail : shoonch911@gmail.com , adg0609@naver.com
 - Github : https://github.com/PARKJINHOH
+<br><br>
 
-### 경험
-## Language
+## 경험
+### Language
 - JAVA, JSP&Servlet, Spring, Node.js, Android, XML
-## DataBase
+### DataBase
 - Mysql, Oracle, Mysqlite(Android)
-## Server
-- AWS(Amazon Web Services), Apache Tomcat <br>
+### Server
+- AWS(Amazon Web Services), Apache Tomcat 
+<br><br>
 
 
 ### JAVA Project
