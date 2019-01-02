@@ -3,23 +3,23 @@
 ## 소개
 - 이름 : 박진호
 - 생년월일 : 1994/06/09
-- E-mail : adg0609@naver.com
+- E-mail : shoonch911@gmail.com , adg0609@naver.com
 - Github : https://github.com/PARKJINHOH
 
 ### 경험
-## 언어
-- JAVA, JSP, Servlet, Spring, Node.js, Android, XML,
+## Language
+- JAVA, JSP&Servlet, Spring, Node.js, Android, XML
 ## DataBase
-- Oracle, Mysql, Mysqlite(Android)
+- Mysql, Oracle, Mysqlite(Android)
 ## Server
-- AWS(Amazon Web Services)
+- AWS(Amazon Web Services), Apache Tomcat
 
 
-### JAVA 프로젝트
+### JAVA Project
 > 재고관리 프로그램 : https://github.com/PARKJINHOH/ys_inventory_control_Oracle
 -> Eclipse(IDE), JAVA
 
-### Web 프로젝트
+### Web Project
 > 갤러리 홈페이지 : https://github.com/PARKJINHOH/ys_Gallery_HomePage_Project <br>
 -> JSP, JAVA, Servlet, HTML, JavaScript, CSS, Mysql
 > 커피판매점 홈페이지 : https://github.com/PARKJINHOH/ys_JSP_RostingHomePage
@@ -29,7 +29,7 @@
 <br>
 
 
-### Android 프로젝트
+### Android Project
 > QR코드를 이용한 매장 주문 및 결제 앱(기업용, 사용자용) : https://github.com/PARKJINHOH/QRPay (사용자용)
 -> JAVA, Zxing(QRCode Scan Library), AWS(Server, Linux, Mysql), PHP(Android <-> PHP <-> AWS(MYSQL))
 
@@ -37,7 +37,7 @@
 -> Java, xml, Thread, API
 <br>
 
-### Node.js 프로젝트 
+### Node.js Project 
 > 카카오톡 플러스친구를 이용한 대학교 정보제공 서비스 : https://github.com/PARKJINHOH/kakao_chatbot_ysUniv
 -> Node.js, JavaScript, AWS(Server)
 <br>
