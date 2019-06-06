@@ -33,7 +33,7 @@
 <br>
 
 
-### Android Project
+### Android APP Project
 > <h4>QR코드를 이용한 매장 주문 및 결제 앱(기업용, 사용자용)</h4> : https://github.com/PARKJINHOH/QRPay (사용자용) <br>
 > -> JAVA, Zxing(QRCode Scan Library), AWS(Server, Linux, Mysql), PHP(Android <-> PHP <-> AWS(MYSQL)) <br>
 
