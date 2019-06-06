@@ -12,7 +12,7 @@
 ### Language
 - JAVA, JSP&Servlet, Spring, Node.js, Android, XML
 ### DataBase
-- Mysql, Oracle, Mysqlite(Android)
+- Mysql, Oracle, Mysqlite(Android), MariaDB
 ### Server
 - AWS(Amazon Web Services), Apache Tomcat 
 <br><br>
